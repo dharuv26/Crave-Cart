@@ -9,10 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
-            nostrum iure suscipit maiores non harum incidunt unde magnam
-            molestias ipsum qui vel aut natus aspernatur ipsa dignissimos,
-            numquam assumenda deserunt.
+            At Crave Cart, we're committed to delivering delicious meals straight to your doorstep. Whether you're craving comfort food, exotic cuisines, or a quick bite, our curated selection of local restaurants has something for everyone. Enjoy fast, reliable service and fresh, flavorful dishes every time. Your hunger, our priority!
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
@@ -32,7 +29,7 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>Get in touch</h2>
           <ul>
-            <li>+92-308-4900522</li>
+            <li>+91 XXXXXXXXXX</li>
             <li>contact@cravecart.com</li>
           </ul>
         </div>
