@@ -5,6 +5,7 @@ Welcome to Crave Cart, your ultimate destination for seamless online food orderi
 
 ## Table Of Contents
 - [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
@@ -15,6 +16,14 @@ Welcome to Crave Cart, your ultimate destination for seamless online food orderi
 
 Crave Cart is a powerful and user-friendly food delivery platform designed to enhance the online food ordering experience. Built using the MERN Stack, it allows users to browse menus, add items to their cart, place orders, and securely pay using Stripe. Admins can efficiently manage products and orders. Featuring role-based authentication, real-time updates, and beautiful alerts, Crave Cart ensures a smooth and enjoyable experience for users and admins alike.
 <br/>
+<br />
+
+## Demo
+
+You can access a live demo of the Crave Cart website. Feel free to explore and use the platform.<br />
+   - Client Portal : [Client](http://ec2-13-60-167-207.eu-north-1.compute.amazonaws.com:8080/)<br />
+   - Admin Portal : [Admin](http://ec2-13-60-167-207.eu-north-1.compute.amazonaws.com:8081/)
+<br />
 <br />
 
 ## Features
